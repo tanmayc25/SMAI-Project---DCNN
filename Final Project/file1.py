@@ -1,1 +1,0 @@
-dict = <type 'dict'>
