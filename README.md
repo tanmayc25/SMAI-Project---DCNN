@@ -1,5 +1,8 @@
 # Doubly Convolutional Neural Network
 
+[GitHub Repo] : https://github.com/tanmayc25/SMAI-Project---DCNN
+[Final Presentation] : https://docs.google.com/presentation/d/1hf9jA1oF4u4xQ8HqkvQfKP3LuRLj8shHJmq0LOBtSb0/edit?usp=sharing
+
 ### SMAI Project by
 >  Akanksha Baranwal - 201430015
 
@@ -14,9 +17,10 @@
 
 ### Repository Content
 
-- ***final project*** contains main DCNN code written in python
-- ***forword pass*** contains Matlab code of forword pass for understanding and proof of concept
-- ***correlation*** contains python code to extract weights from caffee model, matlab code to find averaged max transalation correlation of a layer, ploted results  
+- ***Final Project*** contains main DCNN code written in python
+- ***Forword Pass*** contains Matlab code of forword pass for understanding and proof of concept
+- ***Correlation*** contains python code to extract weights from caffee model, matlab code to find averaged max transalation correlation of a layer, ploted results  
+- ***Presentation*** Raw files, images, graphs for Presentation
 
 ### Pre-requisites
 Code is written in python and would require following libraries:
@@ -77,7 +81,9 @@ sudo python main_final.py
 
 
 [Doubly Convolutional Neural Networks]: <https://papers.nips.cc/paper/6340-doubly-convolutional-neural-networks.pdf>
-[MNIST]: <yann.lecun.com/exdb/mnist/>
+[MNIST]: <http://yann.lecun.com/exdb/mnist/>
 [Getting Started with CNN Lasagne]: <http://luizgh.github.io/libraries/2015/12/08/getting-started-with-lasagne/>
 [Lasagne Docs]: <https://lasagne.readthedocs.io/en/latest/>
 [Theano Docs]: <http://deeplearning.net/software/theano/library/index.html>
+[GitHub Repo]: <https://github.com/tanmayc25/SMAI-Project---DCNN>
+[Final Presentation]: <https://docs.google.com/presentation/d/1hf9jA1oF4u4xQ8HqkvQfKP3LuRLj8shHJmq0LOBtSb0/edit?usp=sharing>
