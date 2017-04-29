@@ -1,7 +1,7 @@
 # Doubly Convolutional Neural Network
 
-[GitHub Repo] : https://github.com/tanmayc25/SMAI-Project---DCNN
-[Final Presentation] : https://docs.google.com/presentation/d/1hf9jA1oF4u4xQ8HqkvQfKP3LuRLj8shHJmq0LOBtSb0/edit?usp=sharing
+- [GitHub Repo] : *https://github.com/tanmayc25/SMAI-Project---DCNN*
+- [Final Presentation] : *https://docs.google.com/presentation/d/1hf9jA1oF4u4xQ8HqkvQfKP3LuRLj8shHJmq0LOBtSb0/edit?usp=sharing*
 
 ### SMAI Project by
 >  Akanksha Baranwal - 201430015
