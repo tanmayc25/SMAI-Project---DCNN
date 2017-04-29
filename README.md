@@ -49,10 +49,13 @@ sudo python main_final.py
 ```
 *Note: sudo access is required is to write results in a file*
 
+### Architecture
+![DCNN and CNN Architecture](http://i.imgur.com/ZLaaimu.png "Architecture")
+
 ### Results
 
 
-![Alt text](http://www.arbormaxtree.com/wp-content/uploads/2014/10/Raleigh-Tree-Removal-1024x884.jpg "Optional title")
+![Alt text](https://pbs.twimg.com/profile_images/582787323831549952/et6CmUtF.jpg "Results")
 
 [Doubly Convolutional Neural Networks]: <https://papers.nips.cc/paper/6340-doubly-convolutional-neural-networks.pdf>
-[MNIST]: <yann.lecun.com/exdb/mnist/>
+[MNIST]: <http://yann.lecun.com/exdb/mnist/>
