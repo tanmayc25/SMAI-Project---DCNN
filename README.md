@@ -2,8 +2,11 @@
 
 ### SMAI Project by
 >  Akanksha Baranwal - 201430015
+
 > Parv Parkhiya - 201430100
+
 > Prachi Agrawal - 201401014
+
 > Tanmay Chaudhari - 201430012
 
 ### Original Paper
