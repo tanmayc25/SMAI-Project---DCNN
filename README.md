@@ -19,7 +19,7 @@
 ### Repository Content
 
 - ***Final Project*** contains main DCNN code written in python
-- ***Forward Pass*** contains Matlab code of forward pass for understanding and proof of concept
+- ***Forword Pass*** contains Matlab code of forword pass for understanding and proof of concept
 - ***Correlation*** contains python code to extract weights from caffee model, matlab code to find averaged max transalation correlation of a layer, ploted results  
 - ***Presentation*** Raw files, images, graphs for Presentation
 
@@ -53,7 +53,7 @@ These parameters can be found and changed just below main function declaration.
 
 ### Running the code
 
-You can run the code using following command.
+You can run the code using following command inside final project.
 
 ```sh
 sudo python main_final.py
@@ -66,7 +66,7 @@ sudo python main_final.py
 ### Results
 
 
-![Alt text](http://www.arbormaxtree.com/wp-content/uploads/2014/10/Raleigh-Tree-Removal-1024x884.jpg "Optional title")
+![Test Error vs Epoch](http://imgur.com/a/u4uAg "Test Error vs Epoch")
 
 
 ### Links
@@ -79,7 +79,9 @@ sudo python main_final.py
 
 - [Theano Docs]
 
+- [Dropbox Repo With Dataset]
 
+- [Final Presentation] 
 
 [Doubly Convolutional Neural Networks]: <https://papers.nips.cc/paper/6340-doubly-convolutional-neural-networks.pdf>
 [MNIST]: <http://yann.lecun.com/exdb/mnist/>
