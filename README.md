@@ -14,9 +14,9 @@
 
 ### Repository Content
 
-- *final project* contains main DCNN code written in python
-- *forword pass* contains Matlab code of forword pass for understanding and proof of concept
-- *Correlation* contains python code to extract weights from caffee model, matlab code to find averaged max transalation correlation of a layer, ploted results  
+- ***final project*** contains main DCNN code written in python
+- ***forword pass*** contains Matlab code of forword pass for understanding and proof of concept
+- ***correlation*** contains python code to extract weights from caffee model, matlab code to find averaged max transalation correlation of a layer, ploted results  
 
 ### Pre-requisites
 Code is written in python and would require following libraries:
@@ -66,9 +66,13 @@ sudo python main_final.py
 
 ### Links
 
-[Getting Started with CNN Lasagne]
-[Lasagne Docs]: https://lasagne.readthedocs.io/en/latest/
-[Theano Docs]: http://deeplearning.net/software/theano/library/index.html
+- [Doubly Convolutional Neural Networks]
+
+- [Getting Started with CNN Lasagne]
+
+- [Lasagne Docs] 
+
+- [Theano Docs]
 
 
 
