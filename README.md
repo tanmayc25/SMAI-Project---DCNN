@@ -45,7 +45,7 @@ These parameters can be found and changed just below main function declaration.
 You can run the code using following command.
 
 ```sh
-sudo python main_final.py
+sudo python Final\ Project/main_final.py
 ```
 *Note: sudo access is required is to write results in a file*
 
