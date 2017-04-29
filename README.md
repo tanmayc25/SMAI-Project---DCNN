@@ -12,6 +12,12 @@
 ### Original Paper
 > [Doubly Convolutional Neural Networks] (NIPS 2016) by Shuangfei Zhai, Yu Cheng, Weining Lu and Zhongfei (Mark) Zhang
 
+### Repository Content
+
+- *final project* contains main DCNN code written in python
+- *forword pass* contains Matlab code of forword pass for understanding and proof of concept
+- *Correlation* contains python code to extract weights from caffee model, matlab code to find averaged max transalation correlation of a layer, ploted results  
+
 ### Pre-requisites
 Code is written in python and would require following libraries:
 
@@ -45,7 +51,7 @@ These parameters can be found and changed just below main function declaration.
 You can run the code using following command.
 
 ```sh
-sudo python Final\ Project/main_final.py
+sudo python main_final.py
 ```
 *Note: sudo access is required is to write results in a file*
 
@@ -55,7 +61,19 @@ sudo python Final\ Project/main_final.py
 ### Results
 
 
-![Alt text](https://pbs.twimg.com/profile_images/582787323831549952/et6CmUtF.jpg "Results")
+![Alt text](http://www.arbormaxtree.com/wp-content/uploads/2014/10/Raleigh-Tree-Removal-1024x884.jpg "Optional title")
+
+
+### Links
+
+[Getting Started with CNN Lasagne]
+[Lasagne Docs]: https://lasagne.readthedocs.io/en/latest/
+[Theano Docs]: http://deeplearning.net/software/theano/library/index.html
+
+
 
 [Doubly Convolutional Neural Networks]: <https://papers.nips.cc/paper/6340-doubly-convolutional-neural-networks.pdf>
-[MNIST]: <http://yann.lecun.com/exdb/mnist/>
+[MNIST]: <yann.lecun.com/exdb/mnist/>
+[Getting Started with CNN Lasagne]: <http://luizgh.github.io/libraries/2015/12/08/getting-started-with-lasagne/>
+[Lasagne Docs]: <https://lasagne.readthedocs.io/en/latest/>
+[Theano Docs]: <http://deeplearning.net/software/theano/library/index.html>
