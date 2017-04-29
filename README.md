@@ -19,7 +19,7 @@
 ### Repository Content
 
 - ***Final Project*** contains main DCNN code written in python
-- ***Forword Pass*** contains Matlab code of forword pass for understanding and proof of concept
+- ***Forward Pass*** contains Matlab code of forward pass for understanding and proof of concept
 - ***Correlation*** contains python code to extract weights from caffee model, matlab code to find averaged max transalation correlation of a layer, ploted results  
 - ***Presentation*** Raw files, images, graphs for Presentation
 
