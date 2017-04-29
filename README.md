@@ -66,7 +66,7 @@ sudo python main_final.py
 ### Results
 
 
-![Test Error vs Epoch](http://imgur.com/a/u4uAg "Test Error vs Epoch")
+![Test Error vs Epoch](http://imgur.com/8q34vnQ "Test Error vs Epoch")
 
 
 ### Links
