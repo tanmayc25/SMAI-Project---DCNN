@@ -4,7 +4,7 @@
 - [GitHub Repo] : *https://github.com/tanmayc25/SMAI-Project---DCNN*
 - [Final Presentation] : *https://docs.google.com/presentation/d/1hf9jA1oF4u4xQ8HqkvQfKP3LuRLj8shHJmq0LOBtSb0/edit?usp=sharing*
 
-### SMAI Project by
+## SMAI Project by
 >  Akanksha Baranwal - 201430015
 
 > Parv Parkhiya - 201430100
@@ -13,17 +13,17 @@
 
 > Tanmay Chaudhari - 201430012
 
-### Original Paper
+## Original Paper
 > [Doubly Convolutional Neural Networks] (NIPS 2016) by Shuangfei Zhai, Yu Cheng, Weining Lu and Zhongfei (Mark) Zhang
 
-### Repository Content
+## Repository Content
 
 - ***Final Project*** contains main DCNN code written in python
 - ***Forword Pass*** contains Matlab code of forword pass for understanding and proof of concept
 - ***Correlation*** contains python code to extract weights from caffee model, matlab code to find averaged max transalation correlation of a layer, ploted results  
 - ***Presentation*** Raw files, images, graphs for Presentation
 
-### Pre-requisites
+## Pre-requisites
 Code is written in python and would require following libraries:
 
 - numpy
@@ -31,11 +31,11 @@ Code is written in python and would require following libraries:
 - lasagne
 
 Our Code is tested on Ubuntu 14.04 amd64 without CUDA but should run on any OS satisfying above pre-requisites.
-### Downloading Dataset
+## Downloading Dataset
 - Code is tested on [MNIST] dataset which is dataset that comprises of handwritten digits.
 - Code will automatically download dataset or can manually placed in the project directory as **mnist.pkl.gz**. 
 
-### Setting Various Parameters
+## Setting Various Parameters
 
 Default Parameters:
 ```sh    
@@ -51,7 +51,7 @@ batch_size = 200
 ```
 These parameters can be found and changed just below main function declaration.
 
-### Running the code
+## Running the code
 
 You can run the code using following command inside final project.
 
@@ -60,16 +60,16 @@ sudo python main_final.py
 ```
 *Note: sudo access is required is to write results in a file*
 
-### Architecture
+## Architecture
 ![DCNN and CNN Architecture](http://i.imgur.com/ZLaaimu.png "Architecture")
 
-### Results
+## Results
 
 
 ![Test Error vs Epoch](http://i.imgur.com/8q34vnQ.png "Test Error vs Epoch")
 
 
-### Links
+## Links
 
 - [Doubly Convolutional Neural Networks]
 
